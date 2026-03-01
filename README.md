@@ -55,17 +55,8 @@ Core Questions:
 
 ## 3. Overall Methodology
 
-Target Definition
-↓
-Passive Reconnaissance
-↓
-Active Reconnaissance
-↓
-Enumeration
-↓
-Analysis
-↓
-Documentation
+Target Definition ➤ Passive Reconnaissance ➤ Active Reconnaissance ➤ Enumeration
+➤ Analysis ➤ Documentation
 
 Never jump directly to exploitation.
 
